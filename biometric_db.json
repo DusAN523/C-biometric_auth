@@ -1,0 +1,28 @@
+[
+  {
+    "user": "user1",
+    "bio_salt": "02403d7cea2125728fb347d8e4ed11ab",
+    "biometric_hash": "e0b4716df3decabbfa4c4b37f9c1c563fb2bbb1c29797ca4ad7077ebea0f7a56",
+    "pwd_salt": "56eb83f433c28c8abecb719581eff5f5",
+    "pwd_hash": "18f6787a65a59f5ff26d9277a9605da9125febc03dcc9eb58ef26cf8c78e9f49",
+    "pwd_iters": 10000
+  }
+,
+  {
+    "user": "user2",
+    "bio_salt": "5955bfb6181c2f73b89335cb78bcb6ee",
+    "biometric_hash": "c26213aab2ea1a0f519fda4b0d0978b9699acdc1589ee92baf8417904768b65d",
+    "pwd_salt": "a64440f3ee709b3879e1a142a1ab3fc1",
+    "pwd_hash": "26540513c4d24a29dce22858a6cbf77b71a679272acb2fab02efba106d8476d1",
+    "pwd_iters": 10000
+  }
+,
+  {
+    "user": "user1",
+    "bio_salt": "de816636f176a78effcc4c18a0adeace",
+    "biometric_hash": "57fccb21ad15b646b9ecb18a05f681784d45fcff20843056554b5e3e0295d104",
+    "pwd_salt": "b153468b79ea650d55d9256d5e5e0eee",
+    "pwd_hash": "6c54de2c3770ca5272ec44015921985b9562c608e3ea116d7e6106ce2b9b759a",
+    "pwd_iters": 10000
+  }
+]
